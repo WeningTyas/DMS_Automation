@@ -5,7 +5,7 @@
 
 .
 
-![Extent Report](https://github.com/WeningTyas/DMS_Automation/blob/master/Report/Extend-Report.png)
+![Extend Report](https://github.com/WeningTyas/DMS_Automation/blob/master/Report/Extend-Report.png)
 
 .
 
