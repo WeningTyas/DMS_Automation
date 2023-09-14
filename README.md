@@ -5,11 +5,11 @@
 
 .
 
-![Extent Report][https://github.com/WeningTyas/DMS_Automation/blob/master/Report/Extend-Report.png]
+![Extent Report](https://github.com/WeningTyas/DMS_Automation/blob/master/Report/Extend-Report.png)
 
 .
 
-![List Modul Automation Test]([URL_Gambar](https://github.com/WeningTyas/DMS_Automation/blob/master/Report/Automation-Test.png))
+![List Modul Automation Test](https://github.com/WeningTyas/DMS_Automation/blob/master/Report/Automation-Test.png)
 
 .
 .
